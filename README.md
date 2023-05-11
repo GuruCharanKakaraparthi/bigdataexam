@@ -1,5 +1,5 @@
 # bigdataexam
-#first and bonus done
-#/first
-#/bonus
-#/third
+first and bonus , third done
+/first
+/bonus
+/third
